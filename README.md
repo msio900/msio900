@@ -6,6 +6,7 @@
   * coding test practice[⌨](../../../coding_test)
   * JAVA의 정석[☕](../../../java_essence)
   * 자바 웹 개발 워크북[🖥](../../../java_web_dev_workbook)
+  * 핸드온 머신러닝[📱](../../../hands_on_machinelearning)
 
 ### 🧿projects
   * final_project[📊](../../../HEXinAR_exawave_service)
