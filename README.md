@@ -2,11 +2,14 @@
 * `데이터지식서비스공학부` `데이터사이언스학과`석사 졸업
 
 ## contents📑<a id='contents'></a>
-### ✏TIL
+### 🖋TIL
   * coding test practice[⌨](../../../coding_test)
   * JAVA의 정석[☕](../../../java_essence)
   * 자바 웹 개발 워크북[🖥](../../../java_web_dev_workbook)
   * 핸드온 머신러닝[📱](../../../hands_on_machinelearning)
+
+### ✏TIL
+  * 데이터분석준전문가 ADsP[✏](../../../coding_test)
 
 ### 🧿projects
   * final_project[📊](../../../HEXinAR_exawave_service)
