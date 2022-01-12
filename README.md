@@ -9,7 +9,7 @@
   * 핸드온 머신러닝[📱](../../../hands_on_machinelearning)
 
 ### ✏TIL
-  * 데이터분석준전문가 ADsP[✏](../../../coding_test)
+  * 데이터분석준전문가 ADsP[✏](../../../ADsp_stusdy)
 
 ### 🧿projects
   * final_project[📊](../../../HEXinAR_exawave_service)
