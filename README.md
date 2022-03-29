@@ -34,7 +34,7 @@
 
 
 ## contents📑<a id='contents'></a>
-### 🖋TIL
+### 🖋TIL🔥🔥
 #### Algorithm & Query
   * coding test practice[⌨](../../../coding_test)
 #### JAVA ☕
@@ -43,6 +43,8 @@
 #### Data & M/L & D/L
   * 핸즈온 머신러닝[📱](../../../hands_on_machinelearning)
   * 개인 추천화 시스템with python[👍](../../../personalized_recommendation_system_with_python)
+#### Technical Interview Stud
+  * 기술 면접[🔥](../../../technical_interview_study)
 
 ### ✏Study for qualifications
   * 데이터분석준전문가 ADsP[✏](../../../ADsp_stusdy)
