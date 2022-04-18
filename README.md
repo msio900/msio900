@@ -37,7 +37,7 @@
 ## 📑contents<a id='contents'></a>
 ### 🖋TIL🔥🔥
 #### Algorithm & Query
-  * coding test practice[⌨](../../../coding_test)
+  * coding test practice[⌨️](../../../coding_test)
 #### JAVA ☕
   * JAVA의 정석[☕](../../../java_essence)
   * 자바 웹 개발 워크북[🖥](../../../java_web_dev_workbook)
@@ -59,8 +59,8 @@
   * (k-digital 1st_semi_project) 코로나-19이후 변화된 사회상과 나아갈 방향제시[📈](../../../kd_proJ1covid-19_analysis_web)
 
 ### 💾training
-  * miracom_java[⌨](../../../miracom_javaEduSummary)
-  * kdigital_multicampus⌨
+  * miracom_java[☕️](../../../miracom_javaEduSummary)
+  * kdigital_multicampus🖱
     * minsung_webscraping[🖥](../../../minsung_webscraping)
     * machinelearning[🖥](../../../minsung_machinelearning)
     * django
