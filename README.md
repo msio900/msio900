@@ -45,7 +45,7 @@
   * 핸즈온 머신러닝[📱](../../../hands_on_machinelearning)
   * 개인 추천화 시스템with python[👍](../../../personalized_recommendation_system_with_python)
   * 데이콘 경진대회 1등 솔루션[🥇](../../../dacon_1st_solution)
-#### Technical Interview Stud
+#### Technical Interview Study
   * 기술 면접[🔥](../../../technical_interview_study)
 
 ### ✏Study for qualifications
