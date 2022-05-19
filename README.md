@@ -2,6 +2,7 @@
 기술블로그[🖋](https://msio900.github.io/)
 ## 📝introduce
  새로운 **지식**과 **방법**을 알아가는 것을 좋아합니다. 최근 연구결과를 반영하고 다양한 방법으로 대규모 트래픽 처리를 해결하는 데이터 사이언티스트의 자질이라고 봅니다. 다양한 데이터들을 새로운 솔루션, 다른 시선으로 바라보며 **데이터가 만드는 따뜻한 세상**을 만들어가고 싶습니다.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msio900&show_icons=true&theme=radical)](https://github.com/msio900)
  
 ## 📦Tech Stack
