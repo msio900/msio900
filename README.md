@@ -37,6 +37,7 @@
 ## 📑contents<a id='contents'></a>
 ### 🖋TIL🔥🔥
 #### Algorithm & Query
+  * Python algorithm interview[⌨️](../../../python_algorithm_interview)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=msio900)](https://solved.ac/msio900)/
   * coding test practice[⌨️](../../../coding_test)
 #### JAVA ☕
