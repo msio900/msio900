@@ -66,7 +66,7 @@
 ### 💾training
   * miracom_java[☕️](../../../miracom_javaEduSummary)
   * kdigital_multicampus🖱
-    * minsung_webscraping[🖥](../../../minsung_webscraping)
-    * machinelearning[🖥](../../../minsung_machinelearning)
+    * Webscraping[🖥](../../../minsung_webscraping)
+    * MachineLearning[🖥](../../../minsung_machinelearning)
     * django
       * dashboard[📇](../../../0715_dashboard)
