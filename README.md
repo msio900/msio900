@@ -50,9 +50,6 @@
   * 데이콘 경진대회 1등 솔루션[🥇](../../../dacon_1st_solution)
   * 데이터사이언스를 위한 컴퓨팅의 기초[🥇](../../../basic_computing_for_data_science)
 
-#### Technical Interview Study
-  * 기술 면접[🔥](../../../technical_interview_study)
-
 ### ✏Study for qualifications
   * 데이터분석준전문가 ADsP[✏](../../../ADsp_stusdy)
   * SQL개발자 SQLD[✏](../../../SQLD_study)
